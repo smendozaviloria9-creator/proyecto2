@@ -1,1 +1,2 @@
-# proyecto2
+# prueba de desenpeño
+Student Management System (CRUD) This is a Python console program that allows you to manage an in-memory student database. It is a practical example of a CRUD (Create, Read, Update, Delete) application. Features The system allows you to perform the following actions: Register: Add new students with a unique ID, name, age, and grade. View: Display a complete list of all registered students. Search: Filter students by name or ID (case-sensitive). Update: Modify an existing student's information without deleting the previous data. Delete: Remove students from the system using their ID.
