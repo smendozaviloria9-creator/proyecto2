@@ -67,4 +67,4 @@ while True:
     elif option == '4': update_student()
     elif option == '5': delete_student()
     elif option == '6': break
-    else: print("Invalid option.")z
+    else: print("Invalid option.")
